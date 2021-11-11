@@ -48,4 +48,8 @@ header ul {
 .font-size-small {
     font-size: small;
 }
+
+.font-size-x-small {
+    font-size: x-small;
+}
 /* EndFont Sizes */
