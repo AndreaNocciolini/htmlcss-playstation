@@ -7,3 +7,17 @@
 .svg-container-sony {
     max-width: 20%;
 }
+
+header ul {
+    margin-bottom: 0;
+}
+
+.menu-header-lg li{
+    display: inline-block;
+}
+
+/* Font Sizes */
+.font-size-small {
+    font-size: small;
+}
+/* EndFont Sizes */
