@@ -55,6 +55,16 @@ header ul {
 }
 /* End Games preview and Consoles Preview */
 
+/* It takes two */
+.it-takes-two-container {
+    height: 45em;
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+/* End It takes two */
+
 /* Font Sizes */
 .font-size-small {
     font-size: small;
