@@ -16,6 +16,13 @@ header ul {
     display: inline-block;
 }
 
+.jumbo {
+    height: 45em;
+    background-image: url(../img/returnal-listing-thumb-01-ps5.jpg);
+    background-repeat: no-repeat;
+    background-position-x: 85%;
+}
+
 /* Font Sizes */
 .font-size-small {
     font-size: small;
