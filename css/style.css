@@ -44,6 +44,10 @@ header ul {
     border-radius: 10px;
 }
 
+.ps5-img-container img {
+    max-width: 100%;
+}
+
 /* Font Sizes */
 .font-size-small {
     font-size: small;
