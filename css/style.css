@@ -39,6 +39,11 @@ header ul {
     width: 20em;
 }
 
+.game-preview-container .row .col img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
 /* Font Sizes */
 .font-size-small {
     font-size: small;
