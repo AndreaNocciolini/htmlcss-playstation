@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+/* Header */
 .svg-container-sony {
     max-width: 20%;
 }
@@ -22,7 +23,9 @@ header ul {
 .menu-header-lg li{
     display: inline-block;
 }
+/* End Header */
 
+/* Jumbo */
 .jumbo {
     height: 45em;
     background-image: url(../img/jumbo-bg.png);
@@ -38,15 +41,19 @@ header ul {
 .returnal-logo {
     width: 20em;
 }
+/* End Jumbo */
 
+/* Games preview and Consoles Preview */
 .game-preview-container .row .col img {
     max-width: 100%;
     border-radius: 10px;
 }
 
-.ps5-img-container img {
+.ps5-img-container img,
+.accessories-ps5-container div img {
     max-width: 100%;
 }
+/* End Games preview and Consoles Preview */
 
 /* Font Sizes */
 .font-size-small {
