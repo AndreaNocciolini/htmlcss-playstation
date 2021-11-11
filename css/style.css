@@ -72,6 +72,13 @@ header ul {
 }
 /* End New Releases */
 
+
+/* Explore PS4 */
+.explore-ps4-container div img {
+    max-width: 100%;
+}
+/* End Explore PS4 */
+
 /* Font Sizes */
 .font-size-small {
     font-size: small;
