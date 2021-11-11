@@ -8,19 +8,35 @@
     max-width: 20%;
 }
 
+.svg-container-sony a svg {
+    max-width: 146px;
+}
+
 header ul {
     margin-bottom: 0;
 }
 
+.dropdown-menu li {
+    display: inline-block;
+}
 .menu-header-lg li{
     display: inline-block;
 }
 
 .jumbo {
     height: 45em;
-    background-image: url(../img/returnal-listing-thumb-01-ps5.jpg);
-    background-repeat: no-repeat;
-    background-position-x: 85%;
+    background-image: url(../img/jumbo-bg.png);
+    background-size: cover;
+    background-position: center;
+    margin-top: 6em;
+}
+
+.max-w-jumbo-content {
+    max-width: 30em;
+}
+
+.returnal-logo {
+    width: 20em;
 }
 
 /* Font Sizes */
