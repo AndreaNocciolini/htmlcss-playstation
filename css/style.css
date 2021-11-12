@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+/* Background Color andFont Sizes */
 .bg-gray {
     background-color: #bebcbb;
 }
@@ -11,6 +12,16 @@
 .bg-blue {
     background-color: #161c3b;
 }
+
+.font-size-small {
+    font-size: small;
+}
+
+.font-size-x-small {
+    font-size: x-small;
+}
+/* End Background Color and Font Sizes */
+
 /* Header */
 .svg-container-sony {
     max-width: 20%;
@@ -54,7 +65,6 @@ header ul {
 .game-preview-container .row .col img {
     border-radius: 10px;
 }
-
 /* End Games preview and Consoles Preview */
 
 /* It takes two */
@@ -102,12 +112,6 @@ header ul {
 }
 /*End Playstation Now*/
 
-/* Font Sizes */
-.font-size-small {
-    font-size: small;
-}
-
-.font-size-x-small {
-    font-size: x-small;
-}
-/* EndFont Sizes */
+/* Social Media */
+/*********EMPTY*********/
+/* End Social Media */
