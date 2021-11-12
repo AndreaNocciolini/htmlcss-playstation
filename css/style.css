@@ -23,23 +23,57 @@
 /* End Background Color and Font Sizes */
 
 /* Header */
-/* Header */
-.svg-container-sony {
-    max-width: 20%;
+.header-top-container svg {
+    width: 8em;
 }
 
-.svg-container-sony a svg {
-    max-width: 146px;
+.navbar-link-list .list-inline li::before {
+    content: '\2022 ';
+    margin-right: 0.5em;
 }
 
-header ul {
-    margin-bottom: 0;
+.navbar-link-list .list-inline li a {
+    text-decoration: none;
+    color: black;
 }
 
-.dropdown-menu li {
-    display: inline-block;
+.navbar-link-list .list-inline li:hover a {
+    color: blue;
 }
-.menu-header-lg li{
+
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(0, 0, 0);
+}
+
+.navbar-link-list .list-inline li::before {
+    content: '\2022 ';
+    margin-right: 0.5em;
+}
+
+.navbar-link-list .list-inline li a {
+    text-decoration: none;
+    color: black;
+}
+
+.navbar-link-list .list-inline li:hover a {
+    color: blue;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(0, 0, 0);
+}
+
+.navbar-link-list .list-inline li a {
+    text-decoration: none;
+    color: black;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    border-radius: 50rem;
     display: inline-block;
 }
 /* End Header */
