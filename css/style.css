@@ -167,7 +167,19 @@
     transform: translate(0, -20%);
     transition: 0.5s;
     cursor: pointer;
-    width: 93%;
+    width: 93.5%;
+}
+
+.new-releases-container .row .col img:hover,
+.discount-playstore-img-container .col img:hover,
+.social-media-container .col img:hover {
+    cursor: pointer;
+    filter: brightness(75%) saturate(78%);
+    transition: 0.8s;
+}
+
+.footer-list li a:hover {
+    cursor: grab;
 }
 /******END HOVER EFFECTS***************************/
 
