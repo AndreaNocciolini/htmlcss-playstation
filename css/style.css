@@ -79,6 +79,20 @@ header ul {
 }
 /* End Explore PS4 */
 
+/* Playstation Plus */
+.bg-gray {
+    background-color: #bebcbb;
+}
+
+.ps-plus-text-container {
+    padding: 3em 1em;
+}
+
+.ps-plus-logo {
+    width: 20em;
+}
+/* End Playstation Plus */
+
 /* Font Sizes */
 .font-size-small {
     font-size: small;
