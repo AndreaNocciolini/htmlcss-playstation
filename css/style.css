@@ -4,6 +4,13 @@
     box-sizing: border-box;
 }
 
+.bg-gray {
+    background-color: #bebcbb;
+}
+
+.bg-blue {
+    background-color: #161c3b;
+}
 /* Header */
 .svg-container-sony {
     max-width: 20%;
@@ -45,14 +52,9 @@ header ul {
 
 /* Games preview and Consoles Preview */
 .game-preview-container .row .col img {
-    max-width: 100%;
     border-radius: 10px;
 }
 
-.ps5-img-container img,
-.accessories-ps5-container div img {
-    max-width: 100%;
-}
 /* End Games preview and Consoles Preview */
 
 /* It takes two */
@@ -67,23 +69,16 @@ header ul {
 
 /* New Releases */
 .new-releases-container .row .col img {
-    max-width: 100%;
     border-radius: 10px;
 }
 /* End New Releases */
 
 
 /* Explore PS4 */
-.explore-ps4-container div img {
-    max-width: 100%;
-}
+/*********EMPTY*********/
 /* End Explore PS4 */
 
 /* Playstation Plus */
-.bg-gray {
-    background-color: #bebcbb;
-}
-
 .ps-plus-text-container {
     padding: 3em 1em;
 }
@@ -92,6 +87,20 @@ header ul {
     width: 20em;
 }
 /* End Playstation Plus */
+
+/* Discount Playstore */
+/*********EMPTY*********/
+/* End Discount Playstore */
+
+/*Playstation Now*/
+.ps-now-text-container {
+    padding: 3em 1em;
+}
+
+.ps-now-logo {
+    width: 20em;
+}
+/*End Playstation Now*/
 
 /* Font Sizes */
 .font-size-small {
