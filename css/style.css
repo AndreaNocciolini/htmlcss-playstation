@@ -155,12 +155,20 @@
     color: blue;
 }
 
-.navbar .dropdown-menu .navbar-img:hover {
+.navbar .dropdown-menu .navbar-img:hover,
+.accessories-container .col img:hover {
     border-radius: 1px;
     box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.7);
+    cursor: pointer;
 }
 
-
+.game-preview-container .row .col img:hover {
+    position: absolute;
+    transform: translate(0, -20%);
+    transition: 0.5s;
+    cursor: pointer;
+    width: 93%;
+}
 /******END HOVER EFFECTS***************************/
 
 
